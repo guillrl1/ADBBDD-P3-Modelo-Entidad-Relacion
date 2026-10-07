@@ -4,9 +4,9 @@ Administración y diseño de bases de datos · Grado en Ingeniería Informática
 
 **Integrante:** Guillermo López Concepción
 
-![Modelo E/R]([ejercicio3_entidad_relacion_drawio.png](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio.png))
+![Modelo E/R](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio.png)
 
-Ficheros: [`ejercicio3_entidad_relacion.drawio`](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio) · [`ejercicio3_entidad_relacion_drawio.png`]([ejercicio3_entidad_relacion_drawio.png](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio.png))
+Ficheros: [`ejercicio3_entidad_relacion.drawio`](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio) · [`ejercicio3_entidad_relacion_drawio.png`](https://github.com/guillrl1/ADBBDD-P3-Modelo-Entidad-Relacion/blob/main/ejercicio3_entidad_relacion.drawio.png)
 
 **Notación**: rectángulo = entidad; rectángulo doble = entidad débil; rombo = relación (`ID` = dependencia en identificación); elipse subrayada = identificador; elipse doble = atributo compuesto; triángulo = jerarquía. La participación `(mín,máx)` se escribe junto a la entidad e indica cuántas ocurrencias de esa entidad se asocian con una ocurrencia de la entidad del otro extremo.
 
